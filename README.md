@@ -1,0 +1,10 @@
+- 👋 Hi, I’m zelroth
+- 👀 I’m aprofesional hacker for 5 years
+- 🌱 I’m a profesional python developer
+- 💞️ I will upload some good scripts for you to use
+- 📫 my social media accounts:
+-   instagram : @zelroth.py
+-   twitter : @zelroth.py
+-   telegram : @infozelroth
+-   facebook : @zelroth.py
+-   E-mail : zelroth-error@yahoo.com 
